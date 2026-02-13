@@ -1,0 +1,12 @@
+# Manual Language Overrides
+*.bf linguist-language=Brainfuck
+*.forth linguist-language=Forth
+*.lisp linguist-language=Lisp
+*.cob linguist-language=COBOL
+*.f90 linguist-language=Fortran
+*.sql linguist-language=SQL
+*.wasm linguist-language=WebAssembly
+*.tex linguist-language=TeX
+*.wat linguist-language=WebAssembly
+*.yml linguist-language=YAML
+*.toml linguist-language=TOML
